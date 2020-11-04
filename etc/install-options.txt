@@ -1,0 +1,12 @@
+Editor Option: CustomEditor
+Custom Editor Path: D:\Sublime Text 3\sublime_text.exe
+Path Option: Cmd
+SSH Option: OpenSSH
+Tortoise Option: false
+CURL Option: OpenSSL
+CRLF Option: CRLFAlways
+Bash Terminal Option: MinTTY
+Performance Tweaks FSCache: Enabled
+Use Credential Manager: Enabled
+Enable Symlinks: Enabled
+Enable Builtin Interactive Add: Enabled
